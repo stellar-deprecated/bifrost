@@ -84,6 +84,7 @@ require (
 	github.com/spf13/jwalterweatherman v0.0.0-20141219030609-3d60171a6431 // indirect
 	github.com/spf13/pflag v0.0.0-20161005214240-4bd69631f475 // indirect
 	github.com/spf13/viper v0.0.0-20150621231900-db7ff930a189
+	github.com/stellar/go eb43bb06d312d93f56487301cfd1babfb74d14fc
 	github.com/stellar/go-xdr v0.0.0-20180917104419-0bc96f33a18e
 	github.com/stellar/throttled v2.2.3-0.20190823235211-89d75816f59d+incompatible
 	github.com/stretchr/objx v0.0.0-20150928122152-1a9d0bb9f541 // indirect
